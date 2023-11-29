@@ -17,5 +17,7 @@ public class TestScript2Test {
 		System.out.println("changes");
 		System.out.println("hiiiii");
 		System.out.println("hiiiii");
+		
+		System.out.println("hellooooo");
 	}
 }

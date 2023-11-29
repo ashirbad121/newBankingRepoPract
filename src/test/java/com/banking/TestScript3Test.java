@@ -18,5 +18,7 @@ public class TestScript3Test {
 		
 		System.out.println("hiiiii");
 		System.out.println("hiiiii");
+		
+		System.out.println("hellooo");
 	}
 }
