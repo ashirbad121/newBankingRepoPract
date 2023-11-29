@@ -14,5 +14,6 @@ public class TestScript1Test {
 	public void ts2Test()
 	{
 		System.out.println("---Test script-2----");
+		System.out.println("--changess------");
 	}
 }
