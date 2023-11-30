@@ -1,5 +1,7 @@
 package com.banking;
 
+import java.sql.DriverManager;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -19,6 +21,7 @@ public class TestScript3Test {
 		
 		if(BROWSER.equalsIgnoreCase("chrome"))
 		{
+			
 			driver=new ChromeDriver();
 		}
 		else if(BROWSER.equalsIgnoreCase("firefox"))
